@@ -18,9 +18,9 @@ E-Commerce Backend is a robust API built with Express.js and Sequelize to intera
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-
 - [License](#license)
 - [Credits](#credits)
+- 
 
 ---
 
@@ -108,11 +108,13 @@ Follow these steps to use the E-Commerce Backend application:
 ---
 
 ## API Endpoints
+*JSON for specific routes can be seen in the video walkthrough*
+
 # Categories 
-# JSON for specific routes can be seen in the video walkthrough
+
  - GET /api/categories
     --Retrieves all categories.
- - GET /api/categories/
+ - GET /api/categories/1
     -- Retrieves a single category by ID.
  - POST /api/categories
    -- Creates a new category.
@@ -120,6 +122,33 @@ Follow these steps to use the E-Commerce Backend application:
    -- Updates a category by ID.
  - DELETE/api/categories/
    -- Deletes a category by ID.
+
+# Products 
+
+ - GET /api/products
+   -- Retrieves all products.
+ - GET /api/products/
+   -- Retrieves a single product by ID.
+ - POST /api/products
+   -- Creates a new product.
+ - PUT /api/products/
+   -- Updates a product by ID.
+ - DELETE /api/products/
+   -- Deletes a product by ID.
+
+
+# Tags 
+
+ - GET /api/tags
+    --Retrieves all tags.
+ - GET /api/tags/
+    -- Retrieves a single tag by ID.
+ - POST /api/tags
+   -- Creates a new tag.
+ - PUT /api/tags/
+   -- Updates a tags by ID.
+ - DELETE/api/tags/
+   -- Deletes a tag by ID.
 
 
 ---
@@ -133,12 +162,15 @@ This project is licensed under the MIT license.
 ## Credits
 - Developer: &nbsp; me 💁🏼‍♀️
 &nbsp;
-- [Starter code](https://github.com/coding-boot-camp/miniature-eureka)
+- [Starter code](https://github.com/coding-boot-camp/bookish-sniffle)
 - [Node.js](https://nodejs.org/en/download/package-manager)
 - [Express.js](https://expressjs.com/)
+- [Sequelize](https://sequelize.org/)
+- [PostgreSQL](https://www.postgresql.org/)
 
 
-
+## Notes
+Make sure to replace placeholders like "your-username" and "your_postgres_username" with your actual GitHub username and PostgreSQL username, respectively. Additionally, update the paths as necessary to reflect your project's structure.
 
 
 
