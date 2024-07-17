@@ -36,7 +36,7 @@ This application is designed to be run locally for development and testing purpo
 
 #Video showing functionality on the deployed page
 
--(Click here to wath)[https://watch.screencastify.com/v/wGA0PEKnLXuZugPtNzaT]
+- [Click here to watch](https://watch.screencastify.com/v/wGA0PEKnLXuZugPtNzaT)
 
 &nbsp;
 
