@@ -115,11 +115,11 @@ Follow these steps to use the E-Commerce Backend application:
  - GET /api/categories/
     -- Retrieves a single category by ID.
  - POST /api/categories
-Creates a new category.
-PUT /api/categories/
-Updates a category by ID.
-DELETE /api/categories/
-Deletes a category by ID.
+   -- Creates a new category.
+ - PUT /api/categories/
+   -- Updates a category by ID.
+ - DELETE/api/categories/
+   -- Deletes a category by ID.
 
 
 ---
