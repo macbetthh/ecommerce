@@ -110,7 +110,7 @@ Follow these steps to use the E-Commerce Backend application:
 ## API Endpoints
 *JSON for specific routes can be seen in the video walkthrough*
 
-# Categories 
+### Categories 
 
  - GET /api/categories
     --Retrieves all categories.
@@ -123,7 +123,7 @@ Follow these steps to use the E-Commerce Backend application:
  - DELETE/api/categories/
    -- Deletes a category by ID.
 
-# Products 
+### Products 
 
  - GET /api/products
    -- Retrieves all products.
@@ -137,7 +137,7 @@ Follow these steps to use the E-Commerce Backend application:
    -- Deletes a product by ID.
 
 
-# Tags 
+### Tags 
 
  - GET /api/tags
     --Retrieves all tags.
