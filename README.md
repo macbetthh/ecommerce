@@ -20,7 +20,7 @@ E-Commerce Backend is a robust API built with Express.js and Sequelize to intera
 - [API Endpoints](#api-endpoints)
 - [License](#license)
 - [Credits](#credits)
-- 
+- [Notes](#notes)
 
 ---
 
