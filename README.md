@@ -34,7 +34,7 @@ This application is designed to be run locally for development and testing purpo
 
 ## Video
 
-#Video showing functionality on the deployed page
+Video showing functionality of the backend connections as well as route tests. Pause as needed!
 
 - [Click here to watch](https://watch.screencastify.com/v/wGA0PEKnLXuZugPtNzaT)
 
